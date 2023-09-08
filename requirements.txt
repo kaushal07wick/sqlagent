@@ -2,7 +2,7 @@ streamlit
 
 openai
 
-langchain-0.0.271
+langchain
 
 langchain-experimental
 
