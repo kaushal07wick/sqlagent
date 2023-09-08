@@ -1,0 +1,11 @@
+streamlit
+
+openai
+
+langchain-0.0.271
+
+langchain-experimental
+
+pyodbc
+
+pandas
